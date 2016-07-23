@@ -1,0 +1,1 @@
+All I need is a game.cfg file in my root to play.
